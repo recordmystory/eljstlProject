@@ -96,3 +96,34 @@ JAVA의 단일 if문과 비슷한 역할을 하는 태그
 ```jsp
 <c:if test="조건식">
 ```
+
+----
+### 2024.04.02(화)
+##### 마이페이지 : 스크립틀릿으로 작성된 코드 EL 표현법으로 바꾸기
+
+##### EL 표현법 반복문 복습
+```jsp
+<c:if test="${str eq '안녕하세요'}">
+ <h4>Hello World</h4>
+</c:if>
+
+<c:if test="${str ne '안녕하세요'}">
+ <h4>Bye World</h4>
+</c:if>
+```
+
+##### 조건문 - Choose (c:choose, c:when, c:otherwise)
+
+##### 반복문 - forEach(for loop문, 향상된 for문)
+
+##### 반복문 - forTokens
+
+##### url 제작 - c:url, c:param
+
+### formatting
+
+##### formatNumber
+
+##### formatDate
+
+### Function Library
