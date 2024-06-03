@@ -112,18 +112,3 @@ JAVA의 단일 if문과 비슷한 역할을 하는 태그
 </c:if>
 ```
 
-##### 조건문 - Choose (c:choose, c:when, c:otherwise)
-
-##### 반복문 - forEach(for loop문, 향상된 for문)
-
-##### 반복문 - forTokens
-
-##### url 제작 - c:url, c:param
-
-### formatting
-
-##### formatNumber
-
-##### formatDate
-
-### Function Library
